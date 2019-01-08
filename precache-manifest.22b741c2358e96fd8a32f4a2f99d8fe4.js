@@ -8,16 +8,16 @@ self.__precacheManifest = [
     "url": "/game/static/js/0.5d1dd2ab.chunk.js"
   },
   {
-    "revision": "94ccd44feeab3dfbd9a2",
-    "url": "/game/static/js/main.94ccd44f.chunk.js"
+    "revision": "299c09309a89374cf162",
+    "url": "/game/static/js/main.299c0930.chunk.js"
   },
   {
     "revision": "edf2bc107737e7f927b88a4137a82b88",
     "url": "/game/static/media/portal.edf2bc10.png"
   },
   {
-    "revision": "796cc57af3702c08548d",
-    "url": "/game/static/js/2.796cc57a.chunk.js"
+    "revision": "86b7fdca94f6fac7bd75",
+    "url": "/game/static/js/2.86b7fdca.chunk.js"
   },
   {
     "revision": "e9928d2efe8d587a615763e488ae79db",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/game/static/js/6.c9212c9f.chunk.js"
   },
   {
-    "revision": "8fbf6019e550ff84c609",
-    "url": "/game/static/js/runtime~main.8fbf6019.js"
+    "revision": "c7553586a3d223de62c1",
+    "url": "/game/static/js/runtime~main.c7553586.js"
   },
   {
     "revision": "55341a5d477140dffe9eca7cdac4ed93",
@@ -68,16 +68,16 @@ self.__precacheManifest = [
     "url": "/game/static/media/buttonBorder.758ae711.png"
   },
   {
+    "revision": "ef7cd0a8f26fd3aca510a4b198cdda66",
+    "url": "/game/static/media/sword.ef7cd0a8.png"
+  },
+  {
     "revision": "b2f6c8209124039c250b8bb4780fbfe6",
     "url": "/game/static/media/fireball.b2f6c820.png"
   },
   {
     "revision": "b408e291d86e3313e7252ea28efff76c",
     "url": "/game/static/media/heal.b408e291.png"
-  },
-  {
-    "revision": "ef7cd0a8f26fd3aca510a4b198cdda66",
-    "url": "/game/static/media/sword.ef7cd0a8.png"
   },
   {
     "revision": "9468b8b08c6608f1a5969884a153a44f",
@@ -276,7 +276,7 @@ self.__precacheManifest = [
     "url": "/game/static/media/head.20591fbf.png"
   },
   {
-    "revision": "94ccd44feeab3dfbd9a2",
+    "revision": "299c09309a89374cf162",
     "url": "/game/static/css/main.06c56948.chunk.css"
   },
   {
@@ -288,11 +288,11 @@ self.__precacheManifest = [
     "url": "/game/static/css/3.31354797.chunk.css"
   },
   {
-    "revision": "796cc57af3702c08548d",
+    "revision": "86b7fdca94f6fac7bd75",
     "url": "/game/static/css/2.0e34eb46.chunk.css"
   },
   {
-    "revision": "f8df1dba3d5b1a3803be6271dd3f32f6",
+    "revision": "fad4676ed83f474d78f4bd771e30e07a",
     "url": "/game/index.html"
   }
 ];
