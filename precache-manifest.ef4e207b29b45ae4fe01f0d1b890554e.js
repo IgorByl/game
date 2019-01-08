@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/game/static/js/0.6624e465.chunk.js"
   },
   {
-    "revision": "c4a83eb75a1f07e3be7a",
-    "url": "/game/static/js/main.c4a83eb7.chunk.js"
+    "revision": "8df8287c469e22425c29",
+    "url": "/game/static/js/main.8df8287c.chunk.js"
   },
   {
     "revision": "edf2bc107737e7f927b88a4137a82b88",
@@ -276,7 +276,7 @@ self.__precacheManifest = [
     "url": "/game/static/media/head.20591fbf.png"
   },
   {
-    "revision": "c4a83eb75a1f07e3be7a",
+    "revision": "8df8287c469e22425c29",
     "url": "/game/static/css/main.ac090f23.chunk.css"
   },
   {
@@ -292,7 +292,7 @@ self.__precacheManifest = [
     "url": "/game/static/css/2.24c1f3d1.chunk.css"
   },
   {
-    "revision": "5cfc797dbb031a1d00be111f62eea23b",
+    "revision": "cbde31ab8d99d39ebb71e170ae243178",
     "url": "/game/index.html"
   }
 ];
