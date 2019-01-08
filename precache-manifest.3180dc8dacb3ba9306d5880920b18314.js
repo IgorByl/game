@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/game/static/js/0.5d1dd2ab.chunk.js"
   },
   {
-    "revision": "84c39f6ed684597e6266",
-    "url": "/game/static/js/main.84c39f6e.chunk.js"
+    "revision": "94ccd44feeab3dfbd9a2",
+    "url": "/game/static/js/main.94ccd44f.chunk.js"
   },
   {
     "revision": "edf2bc107737e7f927b88a4137a82b88",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/game/static/media/fireball.b2f6c820.png"
   },
   {
-    "revision": "ef7cd0a8f26fd3aca510a4b198cdda66",
-    "url": "/game/static/media/sword.ef7cd0a8.png"
-  },
-  {
     "revision": "b408e291d86e3313e7252ea28efff76c",
     "url": "/game/static/media/heal.b408e291.png"
+  },
+  {
+    "revision": "ef7cd0a8f26fd3aca510a4b198cdda66",
+    "url": "/game/static/media/sword.ef7cd0a8.png"
   },
   {
     "revision": "9468b8b08c6608f1a5969884a153a44f",
@@ -276,7 +276,7 @@ self.__precacheManifest = [
     "url": "/game/static/media/head.20591fbf.png"
   },
   {
-    "revision": "84c39f6ed684597e6266",
+    "revision": "94ccd44feeab3dfbd9a2",
     "url": "/game/static/css/main.06c56948.chunk.css"
   },
   {
@@ -292,7 +292,7 @@ self.__precacheManifest = [
     "url": "/game/static/css/2.0e34eb46.chunk.css"
   },
   {
-    "revision": "9106949430a053ef28c9252641d948cd",
+    "revision": "f8df1dba3d5b1a3803be6271dd3f32f6",
     "url": "/game/index.html"
   }
 ];

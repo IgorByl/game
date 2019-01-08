@@ -2,8 +2,8 @@
   "static/js/0.5d1dd2ab.chunk.js": "/game/static/js/0.5d1dd2ab.chunk.js",
   "static/js/0.5d1dd2ab.chunk.js.map": "/game/static/js/0.5d1dd2ab.chunk.js.map",
   "main.css": "/game/static/css/main.06c56948.chunk.css",
-  "main.js": "/game/static/js/main.84c39f6e.chunk.js",
-  "main.js.map": "/game/static/js/main.84c39f6e.chunk.js.map",
+  "main.js": "/game/static/js/main.94ccd44f.chunk.js",
+  "main.js.map": "/game/static/js/main.94ccd44f.chunk.js.map",
   "static/css/2.0e34eb46.chunk.css": "/game/static/css/2.0e34eb46.chunk.css",
   "static/js/2.796cc57a.chunk.js": "/game/static/js/2.796cc57a.chunk.js",
   "static/js/2.796cc57a.chunk.js.map": "/game/static/js/2.796cc57a.chunk.js.map",
@@ -24,7 +24,7 @@
   "static/media/gameLogo.png": "/game/static/media/gameLogo.99f40e31.png",
   "static/media/battlePage.css": "/game/static/media/orgrimmar.efed08ae.jpg",
   "static/media/nickNameForm.css": "/game/static/media/buttonBorder.758ae711.png",
-  "static/media/modalWindowBattlePage.css": "/game/static/media/heal.b408e291.png",
+  "static/media/modalWindowBattlePage.css": "/game/static/media/sword.ef7cd0a8.png",
   "static/media/fireball.mp3": "/game/static/media/fireball.9468b8b0.mp3",
   "static/media/heal.mp3": "/game/static/media/heal.8403cc1f.mp3",
   "static/media/automobile.mp3": "/game/static/media/automobile.ea465203.mp3",
@@ -74,6 +74,6 @@
   "static/css/3.31354797.chunk.css.map": "/game/static/css/3.31354797.chunk.css.map",
   "static/css/4.dfe02707.chunk.css.map": "/game/static/css/4.dfe02707.chunk.css.map",
   "index.html": "/game/index.html",
-  "precache-manifest.86feeabc7feccb568f813c09a381a812.js": "/game/precache-manifest.86feeabc7feccb568f813c09a381a812.js",
+  "precache-manifest.3180dc8dacb3ba9306d5880920b18314.js": "/game/precache-manifest.3180dc8dacb3ba9306d5880920b18314.js",
   "service-worker.js": "/game/service-worker.js"
 }
