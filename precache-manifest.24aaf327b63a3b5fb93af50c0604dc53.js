@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/game/static/media/levelUp.e9928d2e.mp3"
   },
   {
-    "revision": "22932ec8db915a8fe96a",
-    "url": "/game/static/js/3.22932ec8.chunk.js"
+    "revision": "c5b4d73fcaf3d95c9ffd",
+    "url": "/game/static/js/3.c5b4d73f.chunk.js"
   },
   {
     "revision": "439a1a6505d84bf43dcd0c453e878fe4",
     "url": "/game/static/media/righthand.439a1a65.png"
   },
   {
-    "revision": "dad8ed6045f27f3d0839",
-    "url": "/game/static/js/4.dad8ed60.chunk.js"
+    "revision": "141b826e0308fbcb6a8c",
+    "url": "/game/static/js/4.141b826e.chunk.js"
   },
   {
     "revision": "c5d881ffb7b3b97b6469",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/game/static/js/6.c9212c9f.chunk.js"
   },
   {
-    "revision": "c7553586a3d223de62c1",
-    "url": "/game/static/js/runtime~main.c7553586.js"
+    "revision": "4b90765410ef35c136cc",
+    "url": "/game/static/js/runtime~main.4b907654.js"
   },
   {
     "revision": "55341a5d477140dffe9eca7cdac4ed93",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/game/static/media/buttonBorder.758ae711.png"
   },
   {
-    "revision": "ef7cd0a8f26fd3aca510a4b198cdda66",
-    "url": "/game/static/media/sword.ef7cd0a8.png"
-  },
-  {
     "revision": "b2f6c8209124039c250b8bb4780fbfe6",
     "url": "/game/static/media/fireball.b2f6c820.png"
+  },
+  {
+    "revision": "ef7cd0a8f26fd3aca510a4b198cdda66",
+    "url": "/game/static/media/sword.ef7cd0a8.png"
   },
   {
     "revision": "b408e291d86e3313e7252ea28efff76c",
@@ -280,11 +280,11 @@ self.__precacheManifest = [
     "url": "/game/static/css/main.06c56948.chunk.css"
   },
   {
-    "revision": "dad8ed6045f27f3d0839",
+    "revision": "141b826e0308fbcb6a8c",
     "url": "/game/static/css/4.dfe02707.chunk.css"
   },
   {
-    "revision": "22932ec8db915a8fe96a",
+    "revision": "c5b4d73fcaf3d95c9ffd",
     "url": "/game/static/css/3.31354797.chunk.css"
   },
   {
@@ -292,7 +292,7 @@ self.__precacheManifest = [
     "url": "/game/static/css/2.0e34eb46.chunk.css"
   },
   {
-    "revision": "fad4676ed83f474d78f4bd771e30e07a",
+    "revision": "74384407266afe4853c121ba3a053945",
     "url": "/game/index.html"
   }
 ];
