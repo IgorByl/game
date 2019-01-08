@@ -4,48 +4,48 @@ self.__precacheManifest = [
     "url": "/game/static/media/stone.f1bfe2f5.mp3"
   },
   {
-    "revision": "6624e4655398c75cd5b3",
-    "url": "/game/static/js/0.6624e465.chunk.js"
+    "revision": "2c61cb92303a515acd2c",
+    "url": "/game/static/js/0.2c61cb92.chunk.js"
   },
   {
-    "revision": "9070dc014a0aaa014076",
-    "url": "/game/static/js/main.9070dc01.chunk.js"
+    "revision": "c520d7b5a2a5c518245a",
+    "url": "/game/static/js/main.c520d7b5.chunk.js"
   },
   {
     "revision": "edf2bc107737e7f927b88a4137a82b88",
     "url": "/game/static/media/portal.edf2bc10.png"
   },
   {
-    "revision": "8fc5891792d399d9fb82",
-    "url": "/game/static/js/2.8fc58917.chunk.js"
+    "revision": "4b2075c47663c408f4aa",
+    "url": "/game/static/js/2.4b2075c4.chunk.js"
   },
   {
     "revision": "e9928d2efe8d587a615763e488ae79db",
     "url": "/game/static/media/levelUp.e9928d2e.mp3"
   },
   {
-    "revision": "01edbe9d54a4cb867f19",
-    "url": "/game/static/js/3.01edbe9d.chunk.js"
+    "revision": "1f5d1000c7b23bbdac7c",
+    "url": "/game/static/js/3.1f5d1000.chunk.js"
   },
   {
     "revision": "439a1a6505d84bf43dcd0c453e878fe4",
     "url": "/game/static/media/righthand.439a1a65.png"
   },
   {
-    "revision": "b14f928213c04f1566db",
-    "url": "/game/static/js/4.b14f9282.chunk.js"
+    "revision": "8727b26f7fdafd359f43",
+    "url": "/game/static/js/4.8727b26f.chunk.js"
   },
   {
-    "revision": "891acdf27f90e367b5e5",
-    "url": "/game/static/js/5.891acdf2.chunk.js"
+    "revision": "0152d62c46f406f2e9d7",
+    "url": "/game/static/js/5.0152d62c.chunk.js"
   },
   {
-    "revision": "6467cfcbfdc844ec1da1",
-    "url": "/game/static/js/6.6467cfcb.chunk.js"
+    "revision": "7dec8d612a94d6eb735c",
+    "url": "/game/static/js/6.7dec8d61.chunk.js"
   },
   {
-    "revision": "0a787ef5a887c953c7b2",
-    "url": "/game/static/js/runtime~main.0a787ef5.js"
+    "revision": "28928691277741266989",
+    "url": "/game/static/js/runtime~main.28928691.js"
   },
   {
     "revision": "55341a5d477140dffe9eca7cdac4ed93",
@@ -276,23 +276,23 @@ self.__precacheManifest = [
     "url": "/game/static/media/head.20591fbf.png"
   },
   {
-    "revision": "9070dc014a0aaa014076",
-    "url": "/game/static/css/main.06c56948.chunk.css"
+    "revision": "c520d7b5a2a5c518245a",
+    "url": "/game/static/css/main.ac090f23.chunk.css"
   },
   {
-    "revision": "b14f928213c04f1566db",
-    "url": "/game/static/css/4.fc868658.chunk.css"
+    "revision": "8727b26f7fdafd359f43",
+    "url": "/game/static/css/4.4e505cea.chunk.css"
   },
   {
-    "revision": "01edbe9d54a4cb867f19",
-    "url": "/game/static/css/3.e73f79c8.chunk.css"
+    "revision": "1f5d1000c7b23bbdac7c",
+    "url": "/game/static/css/3.e4f2d924.chunk.css"
   },
   {
-    "revision": "8fc5891792d399d9fb82",
-    "url": "/game/static/css/2.24c1f3d1.chunk.css"
+    "revision": "4b2075c47663c408f4aa",
+    "url": "/game/static/css/2.a8c61f37.chunk.css"
   },
   {
-    "revision": "eb82555c040529e3eb75293d5a3b65b9",
+    "revision": "9c59abdde80e776a48808f408a02e835",
     "url": "/game/index.html"
   }
 ];
