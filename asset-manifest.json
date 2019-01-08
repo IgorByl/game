@@ -71,9 +71,9 @@
   "static/media/levelUp.mp3": "/game/static/media/levelUp.e9928d2e.mp3",
   "static/css/main.06c56948.chunk.css.map": "/game/static/css/main.06c56948.chunk.css.map",
   "static/css/2.0e34eb46.chunk.css.map": "/game/static/css/2.0e34eb46.chunk.css.map",
-  "static/css/3.31354797.chunk.css.map": "/game/static/css/3.31354797.chunk.css.map",
   "static/css/4.dfe02707.chunk.css.map": "/game/static/css/4.dfe02707.chunk.css.map",
+  "static/css/3.31354797.chunk.css.map": "/game/static/css/3.31354797.chunk.css.map",
   "index.html": "/game/index.html",
-  "precache-manifest.4a98b27195cabdd79ab8d8234621d1d0.js": "/game/precache-manifest.4a98b27195cabdd79ab8d8234621d1d0.js",
+  "precache-manifest.29ccd7af43fcad401e52e937b788cacb.js": "/game/precache-manifest.29ccd7af43fcad401e52e937b788cacb.js",
   "service-worker.js": "/game/service-worker.js"
 }

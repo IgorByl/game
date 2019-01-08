@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/game/static/media/buttonBorder.758ae711.png"
   },
   {
-    "revision": "b2f6c8209124039c250b8bb4780fbfe6",
-    "url": "/game/static/media/fireball.b2f6c820.png"
-  },
-  {
     "revision": "ef7cd0a8f26fd3aca510a4b198cdda66",
     "url": "/game/static/media/sword.ef7cd0a8.png"
+  },
+  {
+    "revision": "b2f6c8209124039c250b8bb4780fbfe6",
+    "url": "/game/static/media/fireball.b2f6c820.png"
   },
   {
     "revision": "b408e291d86e3313e7252ea28efff76c",
