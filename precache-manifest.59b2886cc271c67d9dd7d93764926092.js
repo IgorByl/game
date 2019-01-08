@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/game/static/media/levelUp.e9928d2e.mp3"
   },
   {
-    "revision": "c5b4d73fcaf3d95c9ffd",
-    "url": "/game/static/js/3.c5b4d73f.chunk.js"
+    "revision": "9e24671ef247a921451c",
+    "url": "/game/static/js/3.9e24671e.chunk.js"
   },
   {
     "revision": "439a1a6505d84bf43dcd0c453e878fe4",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/game/static/js/6.c9212c9f.chunk.js"
   },
   {
-    "revision": "4b90765410ef35c136cc",
-    "url": "/game/static/js/runtime~main.4b907654.js"
+    "revision": "683da19e96f1b82717fa",
+    "url": "/game/static/js/runtime~main.683da19e.js"
   },
   {
     "revision": "55341a5d477140dffe9eca7cdac4ed93",
@@ -284,7 +284,7 @@ self.__precacheManifest = [
     "url": "/game/static/css/4.dfe02707.chunk.css"
   },
   {
-    "revision": "c5b4d73fcaf3d95c9ffd",
+    "revision": "9e24671ef247a921451c",
     "url": "/game/static/css/3.31354797.chunk.css"
   },
   {
@@ -292,7 +292,7 @@ self.__precacheManifest = [
     "url": "/game/static/css/2.0e34eb46.chunk.css"
   },
   {
-    "revision": "74384407266afe4853c121ba3a053945",
+    "revision": "857193a2b9a3cfdde6c3b7314aea3f0a",
     "url": "/game/index.html"
   }
 ];
