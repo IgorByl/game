@@ -1,0 +1,25 @@
+.vert-unmove-h {
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  width: 35%;
+  height: auto;
+}
+img.vert-move-h {
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  width: 35%;
+  height: auto;
+  -webkit-animation: mover 1s infinite alternate;
+  animation: mover 1s infinite alternate;
+}
+
+@-webkit-keyframes mover {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-2px);
+  }
+}

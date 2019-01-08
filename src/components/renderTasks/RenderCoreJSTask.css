@@ -1,0 +1,12 @@
+.input {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+
+.answerList {
+  display: flex;
+  margin-left: 50px;
+}

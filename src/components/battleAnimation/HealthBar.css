@@ -1,0 +1,15 @@
+.enemy {
+    position: absolute;
+    top:10%;
+    right:10%;
+    border:2px solid green;
+    border-radius: 5px;
+}
+
+.user {
+    position: absolute;
+    top:10%;
+    left:10%;
+    border:2px solid green;
+    border-radius: 5px;
+}

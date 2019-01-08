@@ -1,0 +1,33 @@
+.canvasEnemy {
+  position: absolute;
+  top: 20%;
+  left: 63%;
+  border-radius: 50%;
+  opacity: 0.5;
+  background-color: rgb(255, 255, 0, 0);
+  animation: shadow 4s ease-in-out;
+  animation-delay: 0.5s;
+}
+
+.canvasHero {
+  position: absolute;
+  top: 20%;
+  left: 12%;
+  border-radius: 50%;
+  opacity: 0.5;
+  background-color: rgb(255, 255, 0, 0);
+  animation: shadow 4s ease-in-out;
+  animation-delay: 0.5s;
+}
+
+@keyframes shadow {
+  0% {
+    background-color: rgb(255, 255, 0, 0);
+  }
+  50% {
+    background-color: rgb(255, 255, 0, 1);
+  }
+  100% {
+    background-color: rgb(255, 255, 0, 0);
+  }
+}

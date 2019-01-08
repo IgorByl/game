@@ -1,0 +1,65 @@
+.vert-unmove {
+  position: absolute;
+  top: 26%;
+  right: 15%;
+  width: 23%;
+  height: auto;
+}
+img.vert-move {
+  position: absolute;
+  top: 26%;
+  right: 15%;
+  width: 23%;
+  height: auto;
+  animation: mover 1s infinite alternate;
+}
+
+@keyframes mover {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-2px);
+  }
+}
+
+.levelcountIn {
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  color: rgba(255, 255, 255, 0);
+  font-family: "Acme", sans-serif;
+  animation: appearance 3s ease-in-out;
+  font-size: 4rem;
+}
+
+.levelcountOut {
+  position: absolute;
+  opacity: 0;
+  color: rgba(255, 255, 255, 0);
+}
+
+@keyframes appearance {
+  0% {
+    opacity: 0;
+    color: rgba(255, 255, 255, 0);
+  }
+  30% {
+    opacity: 1;
+    color: rgba(255, 255, 255, 0);
+  }
+  40% {
+    opacity: 1;
+    color: rgba(255, 255, 255, 1);
+  }
+  90% {
+    opacity: 1;
+    color: rgba(255, 255, 255, 1);
+  }
+  100% {
+    opacity: 0;
+    color: rgba(255, 255, 255, 0);
+  }
+}

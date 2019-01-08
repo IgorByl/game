@@ -1,0 +1,72 @@
+.registrationPageWrapper {
+  width: 100vw;
+  height: 100vh;
+  background: url("./../../images/pages/portal.png") no-repeat;
+  background-size: cover;
+}
+
+.registrationContentWrapper {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  left: 50%;
+  top: 67%;
+  transform: translate(-50%, -50%);
+}
+
+.linc {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
+.lincButton {
+  margin: 0 5px;
+  width: 150px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  color: rgb(194, 194, 17);
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-image-source: url("./../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.chooseButton {
+  margin: 0 5px;
+  width: 150px;
+  height: 30px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: rgb(194, 194, 17);
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-image-source: url("./../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+}
+
+.modalScore {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height:400px;;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(to top left, #6d6027, #d3cbb8);
+  border: 30px solid transparent;
+  border-image-source: url("./../../images/border/modalWindowBorder.png");
+  border-image-slice: 20;
+  border-image-repeat: round;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Vollkorn", sans-serif;
+  text-shadow: #000 0 0 2px;
+  overflow-y: auto;
+}

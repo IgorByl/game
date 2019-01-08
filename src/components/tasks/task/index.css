@@ -1,0 +1,75 @@
+.trueAnswer,
+.falseAnswer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 0%;
+  padding: 5% 0 10%;
+  font-family: "Acme", sans-serif;
+  text-align: center;
+  font-size: 4rem;
+  background: linear-gradient(to right, #dce35b, #45b649);
+  background-size: cover;
+  color: rgba(255, 255, 255, 0);
+  user-select: none;
+  animation: widths 5s ease-in-out;
+}
+
+@keyframes widths {
+  0% {
+    width: 0%;
+    opacity: 0;
+    color: rgba(255, 255, 255, 0);
+  }
+  30% {
+    width: 100vw;
+    opacity: 1;
+    color: rgba(255, 255, 255, 0);
+  }
+  40% {
+    width: 100vw;
+    opacity: 1;
+    color: rgba(255, 255, 255, 1);
+  }
+  90% {
+    width: 100vw;
+    opacity: 1;
+    color: rgba(255, 255, 255, 1);
+  }
+  100% {
+    width: 0%;
+    opacity: 0;
+    color: rgba(255, 255, 255, 0);
+  }
+}
+
+.falseAnswer {
+  background: linear-gradient(to right, #ed213a, #93291e);
+}
+
+.modalWindowQuestion {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background: linear-gradient(to top left, #6d6027, #d3cbb8);
+}
+
+.chooseButton {
+  margin: 0 15px;
+  width: 150px;
+  height: 30px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: #fff;
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-image-source: url("./../../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+}

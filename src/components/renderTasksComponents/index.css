@@ -1,0 +1,29 @@
+ul {
+  margin: 10px;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px 5px;
+  cursor: pointer;
+  font-family: "Acme", sans-serif;
+}
+
+.ui-sortable-disabled li {
+  cursor: not-allowed;
+}
+
+.ulSort {
+  display: flex;
+  justify-content: center;
+}
+
+.liSort {
+  width: 30px;
+  text-align: center;
+}
+
+.taskDivWrapper {
+  margin-top: 60px;
+}

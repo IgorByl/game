@@ -1,0 +1,142 @@
+.modalBattle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(to top left, #6d6027, #d3cbb8);
+  border: 30px solid transparent;
+  border-image-source: url("./../../images/border/modalWindowBorder.png");
+  border-image-slice: 20;
+  border-image-repeat: round;
+  box-sizing: border-box;
+}
+
+.spellChooseDiv {
+  display: flex;
+  margin: 0 auto;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 5%;
+  font-family: "Acme", sans-serif;
+  cursor: pointer;
+  background-size: cover;
+}
+
+.fireball {
+  background: url("./../../images/spellsIcons/fireball.png") no-repeat;
+  background-size: cover;
+}
+
+.sword {
+  background: url("./../../images/spellsIcons/sword.png") no-repeat;
+  background-size: cover;
+}
+
+.heal {
+  background: url("./../../images/spellsIcons/heal.png") no-repeat;
+  background-size: cover;
+}
+
+.spellChooseDiv:hover {
+  box-shadow: 0 0 20px #d3cbb8;
+}
+
+.chooseButton {
+  margin: 0 15px;
+  width: 150px;
+  height: 30px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: #fff;
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-image-source: url("./../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+}
+
+.buttonSelectTask {
+  margin: 0 15px;
+  width: 150px;
+  height: 30px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  color: #fff;
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-image-source: url("./../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+}
+
+.modalTask {
+  position: absolute;
+  height: 60%;
+  width: 60%;
+  background: linear-gradient(to top left, #6d6027, #d3cbb8);
+  border: 30px solid transparent;
+  border-image-source: url("./../../images/border/modalWindowBorder.png");
+  border-image-slice: 20;
+  border-image-repeat: round;
+  box-sizing: border-box;
+  text-align: center;
+  margin-left: 20vw;
+  margin-top: 20vh;
+}
+
+.headline {
+  font-family: "Acme", sans-serif;
+}
+
+.headlineTask {
+  margin-top: 20px;
+  font-family: "Vollkorn", sans-serif;
+}
+
+.playButton {
+  margin: 0 15px;
+  width: 60px;
+  height: 30px;
+  color: #fff;
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.listeningTaskDivWrapper {
+  margin-top: 80px;
+}
+
+.linc {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
+.lincButton {
+  margin: 0 5px;
+  width: 150px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  color: #fff;
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-image-source: url("./../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+  text-align: center;
+}

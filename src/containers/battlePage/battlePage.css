@@ -1,0 +1,24 @@
+.battlePageWrapper {
+  width: 100vw;
+  height: 100vh;
+  background: url("./../../images/pages/orgrimmar.jpg") no-repeat;
+  background-size: cover;
+}
+
+.scoreboard {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height:400px;;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(to top left, #6d6027, #d3cbb8);
+  border: 30px solid transparent;
+  border-image-source: url("./../../images/border/modalWindowBorder.png");
+  border-image-slice: 20;
+  border-image-repeat: round;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Vollkorn", sans-serif;
+  text-shadow: #000 0 0 2px;
+  overflow-y: auto;
+}

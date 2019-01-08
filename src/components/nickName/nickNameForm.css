@@ -1,0 +1,38 @@
+.form {
+  text-align: center;
+  width: 150px;
+  margin: 0 5px;
+  color: rgb(194, 194, 17);
+  font-family: "Acme", sans-serif;
+  text-shadow: #000 0 0 2px;
+}
+
+.input {
+  width: 150px;
+  background: rgba(95, 94, 94, 0.8);
+  height: 30px;
+  outline: none;
+  color: #fff;
+  font-family: "Vollkorn", sans-serif;
+  border: 3px solid transparent;
+  border-image-source: url("./../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+}
+
+.submitButton {
+  width: 150px;
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: rgb(194, 194, 17);
+  font-family: "Acme", sans-serif;
+  background: linear-gradient(#870000, #190a05);
+  cursor: pointer;
+  border: 3px solid transparent;
+  border-image-source: url("./../../images/border/buttonBorder.png");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  box-sizing: border-box;
+}

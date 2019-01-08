@@ -1,0 +1,198 @@
+.container {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 800px;
+  height: 600px;
+  padding: 10px;
+  margin: 0 auto;
+  background: url("./../../images/tasks/ballonBackground.jpg") no-repeat 50%;
+  position: absolute;
+}
+.balloon {
+  width: 738px;
+  top: 450px;
+  margin: 0 auto;
+  position: relative;
+}
+.balloon > div {
+  width: 104px;
+  height: 140px;
+  background: rgba(182, 15, 97, 0.9);
+  border-radius: 0;
+  border-radius: 80% 80% 80% 80%;
+  margin: 0 auto;
+  position: absolute;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: inset 17px 7px 10px rgba(182, 15, 97, 0.9);
+}
+
+.balloon > div:nth-child(1) {
+  background: rgba(182, 15, 97, 0.9);
+  left: 10px;
+  box-shadow: inset 10px 10px 10px darken(rgba(182, 15, 97, 0.9), 10%);
+  animation: balloon1 15s ease-in-out infinite;
+  animation-delay: 1s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(2) {
+  background: rgba(242, 112, 45, 0.9);
+  left: 120px;
+  box-shadow: inset 10px 10px 10px darken(rgba(242, 112, 45, 0.9), 10%);
+  animation: balloon2 18s ease infinite;
+  animation-delay: 5s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(3) {
+  background: rgba(45, 181, 167, 0.9);
+  left: 240px;
+  box-shadow: inset 10px 10px 10px darken(rgba(45, 181, 167, 0.9), 10%);
+  animation: balloon1 16s ease-in-out infinite;
+  animation-delay: 5s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(4) {
+  background: rgba(190, 61, 244, 0.9);
+  left: 360px;
+  box-shadow: inset 10px 10px 10px darken(rgba(190, 61, 244, 0.9), 10%);
+  animation: balloon2 14s ease infinite;
+  animation-delay: 10s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(5) {
+  background: rgba(180, 224, 67, 0.9);
+  left: 480px;
+  box-shadow: inset 10px 10px 10px darken(rgba(180, 224, 67, 0.9), 10%);
+  animation: balloon1 12s ease-in-out infinite;
+  animation-delay: 5s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(6) {
+  background: rgba(242, 194, 58, 0.9);
+  left: 600px;
+  box-shadow: inset 10px 10px 10px darken(rgba(242, 194, 58, 0.9), 10%);
+  animation: balloon2 13s ease infinite;
+  animation-delay: 18s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(7) {
+  background: rgba(242, 194, 58, 0.9);
+  left: 600px;
+  box-shadow: inset 10px 10px 10px darken(rgba(242, 194, 58, 0.9), 10%);
+  animation: balloon2 13s ease-in-out infinite;
+  animation-delay: 8s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(8) {
+  background: rgba(242, 194, 58, 0.9);
+  left: 600px;
+  box-shadow: inset 10px 10px 10px darken(rgba(242, 194, 58, 0.9), 10%);
+  animation: balloon2 13s ease infinite;
+  animation-delay: 12s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(9) {
+  background: rgba(45, 181, 167, 0.9);
+  left: 240px;
+  box-shadow: inset 10px 10px 10px darken(rgba(45, 181, 167, 0.9), 10%);
+  animation: balloon1 16s ease-in-out infinite;
+  animation-delay: 13s;
+  opacity: 0;
+  position: absolute;
+}
+.balloon > div:nth-child(10) {
+  background: rgba(182, 15, 97, 0.9);
+  left: 10px;
+  box-shadow: inset 10px 10px 10px darken(rgba(182, 15, 97, 0.9), 10%);
+  animation: balloon1 15s ease infinite;
+  animation-delay: 10s;
+  opacity: 0;
+  position: absolute;
+}
+
+.balloon > div:before {
+  color: rgba(182, 15, 97, 0.9);
+  position: absolute;
+  bottom: -11px;
+  left: 52px;
+  content: "▲";
+  font-size: 1em;
+}
+
+.spanLetterSize {
+  font-size: 4.8em;
+  color: white;
+  font-family: "Acme", sans-serif;
+  position: relative;
+  top: 30px;
+  left: 50%;
+  margin-left: -100px;
+  text-transform: uppercase;
+}
+
+@keyframes balloon1 {
+  0% {
+    transform: translateY(0px) rotate(-8deg);
+    opacity: 1;
+  }
+  25% {
+    transform: translateY(-450px) rotate(8deg);
+    opacity: 1;
+  }
+  30% {
+    transform: translateY(-450px) rotate(8deg);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(-460px);
+    opacity: 0;
+  }
+}
+
+@keyframes balloon2 {
+  0% {
+    transform: translateY(0px) rotate(8deg);
+    opacity: 1;
+  }
+  25% {
+    transform: translateY(-450px) rotate(-8deg);
+    opacity: 1;
+  }
+  30% {
+    transform: translateY(-450px) rotate(-8deg);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(-460px);
+    opacity: 0;
+  }
+}
+
+h1 {
+  position: relative;
+  top: 200px;
+  text-align: center;
+  color: rgba(182, 15, 97, 0.9);
+  font-size: 3.5em;
+}
+
+.burst {
+  display: none;
+}
+.divAnswerContainer {
+  width: 100px;
+  height: 20px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 1px solid black;
+}
