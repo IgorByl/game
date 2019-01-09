@@ -1,51 +1,51 @@
 self.__precacheManifest = [
   {
-    "revision": "f1bfe2f534ce031f2a5964000ca8fecb",
-    "url": "/game/static/media/stone.f1bfe2f5.mp3"
+    "revision": "57c0214e59deba02f1dde92df977a6de",
+    "url": "/game/static/media/sound.57c0214e.mp3"
   },
   {
     "revision": "2c61cb92303a515acd2c",
     "url": "/game/static/js/0.2c61cb92.chunk.js"
   },
   {
-    "revision": "c520d7b5a2a5c518245a",
-    "url": "/game/static/js/main.c520d7b5.chunk.js"
+    "revision": "7830a2f2386c6fa4f550",
+    "url": "/game/static/js/main.7830a2f2.chunk.js"
   },
   {
     "revision": "edf2bc107737e7f927b88a4137a82b88",
     "url": "/game/static/media/portal.edf2bc10.png"
   },
   {
-    "revision": "4b2075c47663c408f4aa",
-    "url": "/game/static/js/2.4b2075c4.chunk.js"
+    "revision": "cf48ab2e409e5ed7ddb9",
+    "url": "/game/static/js/2.cf48ab2e.chunk.js"
   },
   {
     "revision": "e9928d2efe8d587a615763e488ae79db",
     "url": "/game/static/media/levelUp.e9928d2e.mp3"
   },
   {
-    "revision": "1f5d1000c7b23bbdac7c",
-    "url": "/game/static/js/3.1f5d1000.chunk.js"
+    "revision": "967faae5f360efbfbb96",
+    "url": "/game/static/js/3.967faae5.chunk.js"
   },
   {
-    "revision": "439a1a6505d84bf43dcd0c453e878fe4",
-    "url": "/game/static/media/righthand.439a1a65.png"
+    "revision": "15ca7e76fe31ef13aed9403426713556",
+    "url": "/game/static/media/righthand.15ca7e76.png"
   },
   {
-    "revision": "8727b26f7fdafd359f43",
-    "url": "/game/static/js/4.8727b26f.chunk.js"
+    "revision": "c44de0f8467a24d6b402",
+    "url": "/game/static/js/4.c44de0f8.chunk.js"
   },
   {
-    "revision": "0152d62c46f406f2e9d7",
-    "url": "/game/static/js/5.0152d62c.chunk.js"
+    "revision": "3f892579c680038c702e",
+    "url": "/game/static/js/5.3f892579.chunk.js"
   },
   {
-    "revision": "7dec8d612a94d6eb735c",
-    "url": "/game/static/js/6.7dec8d61.chunk.js"
+    "revision": "94ca8638d8f84566c3f0",
+    "url": "/game/static/js/6.94ca8638.chunk.js"
   },
   {
-    "revision": "28928691277741266989",
-    "url": "/game/static/js/runtime~main.28928691.js"
+    "revision": "32432fca398a8571ca69",
+    "url": "/game/static/js/runtime~main.32432fca.js"
   },
   {
     "revision": "55341a5d477140dffe9eca7cdac4ed93",
@@ -58,6 +58,30 @@ self.__precacheManifest = [
   {
     "revision": "99f40e318f9493499e6f89e3f2ead1af",
     "url": "/game/static/media/gameLogo.99f40e31.png"
+  },
+  {
+    "revision": "63bf947bfc30214c0da8fef3b97b9ee8",
+    "url": "/game/static/media/portal.63bf947b.png"
+  },
+  {
+    "revision": "c72bf1012c0cb0934124924a9216d23a",
+    "url": "/game/static/media/spellsModalWindow.c72bf101.png"
+  },
+  {
+    "revision": "3d1f0bce4ec0dc9c435a8084aed1592e",
+    "url": "/game/static/media/LetterSelectTask.3d1f0bce.png"
+  },
+  {
+    "revision": "0bb7dd0e691ea0bd019f7cfea557e943",
+    "url": "/game/static/media/ballonBurst.0bb7dd0e.png"
+  },
+  {
+    "revision": "e7e542568a0b80149ca9d49a5bb23335",
+    "url": "/game/static/media/fireballShoot.e7e54256.png"
+  },
+  {
+    "revision": "82f3a1c50606391fab08d697f02158dd",
+    "url": "/game/static/media/healling.82f3a1c5.png"
   },
   {
     "revision": "efed08aec6e5e2b424bb3de2e0f14ac3",
@@ -144,12 +168,12 @@ self.__precacheManifest = [
     "url": "/game/static/media/night.b89e5be0.mp3"
   },
   {
-    "revision": "57c0214e59deba02f1dde92df977a6de",
-    "url": "/game/static/media/sound.57c0214e.mp3"
+    "revision": "23d3d1dec6f5f29cbb9180672d581e2a",
+    "url": "/game/static/media/lefthand.23d3d1de.png"
   },
   {
-    "revision": "394a3f6334762d867c6fba85916dee19",
-    "url": "/game/static/media/lefthand.394a3f63.png"
+    "revision": "f1bfe2f534ce031f2a5964000ca8fecb",
+    "url": "/game/static/media/stone.f1bfe2f5.mp3"
   },
   {
     "revision": "e89f84d868b26e1730b4b7071700b836",
@@ -276,23 +300,39 @@ self.__precacheManifest = [
     "url": "/game/static/media/head.20591fbf.png"
   },
   {
-    "revision": "c520d7b5a2a5c518245a",
-    "url": "/game/static/css/main.ac090f23.chunk.css"
+    "revision": "394a3f6334762d867c6fba85916dee19",
+    "url": "/game/static/media/lefthand.394a3f63.png"
   },
   {
-    "revision": "8727b26f7fdafd359f43",
-    "url": "/game/static/css/4.4e505cea.chunk.css"
+    "revision": "439a1a6505d84bf43dcd0c453e878fe4",
+    "url": "/game/static/media/righthand.439a1a65.png"
   },
   {
-    "revision": "1f5d1000c7b23bbdac7c",
-    "url": "/game/static/css/3.e4f2d924.chunk.css"
+    "revision": "4e7a528c63f9ad6adb8790f09fd179ba",
+    "url": "/game/static/media/body.4e7a528c.png"
   },
   {
-    "revision": "4b2075c47663c408f4aa",
-    "url": "/game/static/css/2.a8c61f37.chunk.css"
+    "revision": "f4e7b6aea10ea10568b280d97cbfb1b7",
+    "url": "/game/static/media/head.f4e7b6ae.png"
   },
   {
-    "revision": "9c59abdde80e776a48808f408a02e835",
+    "revision": "7830a2f2386c6fa4f550",
+    "url": "/game/static/css/main.e47e14bf.chunk.css"
+  },
+  {
+    "revision": "c44de0f8467a24d6b402",
+    "url": "/game/static/css/4.2a0dbb0f.chunk.css"
+  },
+  {
+    "revision": "967faae5f360efbfbb96",
+    "url": "/game/static/css/3.ca5496ab.chunk.css"
+  },
+  {
+    "revision": "cf48ab2e409e5ed7ddb9",
+    "url": "/game/static/css/2.240b79ed.chunk.css"
+  },
+  {
+    "revision": "282d40e4493a1d3f559271bdbbff6cde",
     "url": "/game/index.html"
   }
 ];
