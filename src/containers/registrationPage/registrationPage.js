@@ -22,11 +22,11 @@ class Registration extends Component {
               this.props.listOfAllUsers ? this.props.listOfAllUsers.length : 0
             }
           />
-          <Link to="/battle">
+          <Link to='/battle'>
             <button className="lincButton">PLAY</button>
           </Link>
           <ModalWindowRegistration listOfAllUsers={this.props.listOfAllUsers} />
-          <Link to="/">
+          <Link to='/'>
             <button className="lincButton">Back</button>
           </Link>
         </div>

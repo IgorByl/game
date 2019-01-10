@@ -8,12 +8,17 @@ import undeadHead from "./../../images/models/undead/head.png";
 import undeadLefthand from "./../../images/models/undead/lefthand.png";
 import undeadRighthand from "./../../images/models/undead/righthand.png";
 
+import taurenBody from "./../../images/models/tauren/body.png";
+import taurenHead from "./../../images/models/tauren/head.png";
+import taurenLefthand from "./../../images/models/tauren/lefthand.png";
+import taurenRighthand from "./../../images/models/tauren/righthand.png";
+
 const arrayOfEnemyBodys = [
   {
-    head: orcHead,
-    body: orcBody,
-    lefthand: orcLefthand,
-    righthand: orcRighthand,
+    head: taurenHead,
+    body: taurenBody,
+    lefthand: taurenLefthand,
+    righthand: taurenRighthand,
     level: "LEVEL  III"
   },
   {

@@ -9,14 +9,12 @@ const RenderEscapeMenu = () => {
         {battleMenu.map((value, index) => {
           return (
             <Link
-            key={index}
+              key={index}
               className="linc"
               onClick={() => this.forceUpdate()}
               to={value[1]}
             >
-              <button className="lincButton">
-                {value[0]}{" "}
-              </button>
+              <button className="lincButton">{value[0]} </button>
             </Link>
           );
         })}

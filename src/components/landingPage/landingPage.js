@@ -1,16 +1,15 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import "./landingPage.css";
-import logo from "./../../images/logo/gameLogo.png";
+import Header from "./header/index";
+import Main from "./main/index";
+import Footer from "./footer/index";
 
 export default class LandingPage extends React.Component {
   render() {
     return (
-      <div className="landingPageWrapper">
-        <img className="logo" src={logo} alt="game logo" />
-        <button className="startButton">
-          <Link to="/registration" className="linc">START</Link>
-        </button>
+      <div>
+        <Header />
+        <Main />
+        <Footer />
       </div>
     );
   }

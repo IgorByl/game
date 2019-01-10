@@ -1,0 +1,50 @@
+.mainWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-top: 50px;
+  font-family: "Acme", sans-serif;
+  text-shadow: #000 0 0 2px;
+}
+
+.pMainText {
+  font-size: 1.8rem;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.commentMainText {
+  font-size: 1.2rem;
+  text-shadow: none;
+  margin-left: 10%;
+}
+
+.rulesBlocks {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.gamerules {
+  padding: 2em;
+  width: 80%;
+  font-size: 1.4rem;
+  text-shadow: none;
+}
+
+.gallery {
+  padding: 0 10%;
+}
+
+.gamemodal,
+.gameplay,
+.gamespells {
+  text-align: center;
+}
+
+.gameImg {
+  width: 40%;
+  margin: 5% 5px;
+  height: auto;
+  border-radius: 3px;
+}

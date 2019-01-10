@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from "react";
-import Navigation from "./../../components/navigation/navigation";
+import Navigation from "./components/navigation/navigation";
 
 class App extends Component {
   render() {

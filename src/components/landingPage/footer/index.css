@@ -1,0 +1,16 @@
+.footerWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top:20px;
+  background: linear-gradient(to right, #000000, #434343);
+  color: #fff;
+  font-family: "Acme", sans-serif;
+  height: 100px;
+  padding-top:20px;
+}
+
+.author {
+  font-size: 1.6rem;
+  margin-bottom: 15px;
+}
